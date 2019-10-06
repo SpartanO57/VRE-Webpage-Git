@@ -1,0 +1,20 @@
+li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#headerImg {
+  height: 600px;
+  width: 1425px;
+}
+
+#text {
+  text-align: center;
+  color: blue;
+
+}
+
+body {
+  width: 1440;
+}
