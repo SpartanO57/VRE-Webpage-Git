@@ -4,6 +4,10 @@ li {
   padding: 0;
 }
 
+#testButton {
+  display: none;
+}
+
 #headerImg {
   height: 600px;
   width: 100%;
